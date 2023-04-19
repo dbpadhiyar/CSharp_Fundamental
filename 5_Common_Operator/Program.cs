@@ -38,9 +38,9 @@ class Program
         Console.WriteLine("Is This Year Is Leap Year ? => {0}",isLeapYer);
 
         /* 6 => null Coalascing Operator (?:)  */
-        int max;
+        int? max = null;
 
-        int latestValue = max ?? 10;
+        int latestValue = max ?? 0;
 
 
 
