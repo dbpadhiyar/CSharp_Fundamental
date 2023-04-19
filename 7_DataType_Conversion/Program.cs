@@ -1,11 +1,4 @@
-﻿/*
- * Datatype Conversion happen on two ways
- * Implicit & Explicit
- * Implicit conversion happen automatically i.e(int to float) because float can hold int value
- * Explicit Conversion not happen automatically because it might lose data so we have to do it i.e(float to int) we might lose some frictional value
-*/
-
-namespace _6_Nullable_Type
+﻿namespace _6_Nullable_Type
 {
     public class Program
     {
