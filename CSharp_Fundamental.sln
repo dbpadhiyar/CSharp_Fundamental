@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Comments", "9_Comments\9_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_If_Statement", "11_If_Statement\10_If_Statement.csproj", "{2B3676B3-7900-48D7-9D47-78AE9B0BB460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Switch_Statement", "11_Switch_Statement\11_Switch_Statement.csproj", "{E7F9F7B5-3ECE-44FF-80CC-63A8F9F42AA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_12_Switch_Statement", "11_Switch_Statement\11_12_Switch_Statement.csproj", "{E7F9F7B5-3ECE-44FF-80CC-63A8F9F42AA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
