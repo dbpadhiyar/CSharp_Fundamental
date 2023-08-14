@@ -1,4 +1,11 @@
-﻿using System;
+﻿// we can declare static method property inside non static class but we cannot declare non
+// static field & class in static class
+
+// static constructor called only once no matter how many instance we create
+// static constructor called before instance constructor
+
+
+using System;
 
 class Circle
 {
