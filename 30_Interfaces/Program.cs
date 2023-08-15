@@ -15,25 +15,24 @@
 
 interface ICustomerNew
 {
-    void PrintDetail();
+    void PrintDetailNew();
 }
 
 interface ICustomerOld
 {
-    void PrintDetail();
+    void PrintDetailOld();
 }
 public class Customer : ICustomerNew, ICustomerOld
-{
-    void ICustomerOld.PrintDetail()
-    {
-        Console.WriteLine("Called from Printdetail in customer class Old");
-    }
-
-    void ICustomerNew.PrintDetail()
+{    
+    public void PrintDetailNew()
     {
         Console.WriteLine("Called from Printdetail in customer class New");
     }
+    public void PrintDetailOld()
+    {
+        Console.WriteLine("Called from Printdetail in customer class Old");
 
+    }
 }
 
 class Program
@@ -41,7 +40,7 @@ class Program
     public static void Main()
     {
         Customer customer = new Customer();
-        ((ICustomerNew)customer).PrintDetail();
-        ((ICustomerOld)customer).PrintDetail();
+        customer.PrintDetailNew();
+        customer.PrintDetailOld();
     }
 }
