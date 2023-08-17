@@ -2,7 +2,7 @@
  *  Privare            ->  Private member accessible to only class in which it defined
  *  Public             ->  Public member can be accessible from anywhere
  *  Protected          ->  Protected can be accessible in class where it defined or in a class where we inherited class
-/*
+*/
 
 public class Customer
 {
