@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>_58_Why_Override_Equals_Method</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>

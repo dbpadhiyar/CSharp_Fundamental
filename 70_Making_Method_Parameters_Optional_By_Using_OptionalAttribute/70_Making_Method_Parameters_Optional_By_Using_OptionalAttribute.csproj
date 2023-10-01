@@ -3,9 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>_61_Partial_Class</RootNamespace>
+    <RootNamespace>_70_Making_Method_Parameters_Optional_By_Using_OptionalAttribute</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>disable</Nullable>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>

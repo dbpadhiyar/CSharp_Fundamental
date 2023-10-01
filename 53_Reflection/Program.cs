@@ -30,14 +30,14 @@ namespace Devendra
     {
         public static void Main()
         {
-            Console.WriteLine("-------- Nampe Print Start ---------------- ");
+            Console.WriteLine("-------- Name Print Start ---------------- ");
             //Type type = Type.GetType("Devendra.Customer");
             Customer customer = new Customer();
             Type type = customer.GetType();
             Console.WriteLine($"Full Name - {type.FullName}");
             Console.WriteLine($"Just Name - {type.Name}");
             Console.WriteLine($"Namespace Name - {type.Namespace}");
-            Console.WriteLine("-------- Nampe Print End ----------------\n ");
+            Console.WriteLine("-------- Name Print End ----------------\n ");
 
             Console.WriteLine("-------- Properties Start ---------------- ");
             PropertyInfo[] propertyInfo = type.GetProperties();

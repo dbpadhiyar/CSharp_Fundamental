@@ -22,14 +22,14 @@ public class Program
 {
     public static void Main()
     {
-        //Calculator.Add(10,12);
+        Calculator.Add(10,12);
         Calculator.Add(new List<int>() {1,2,3,4,5,6,7,8,9,10});
     }
 }
 
 public class Calculator
 {
-    [Obsolete("Use This method => Add(List<int> num)",true)]
+    [Obsolete("Use This method => Add(List<int> num)",false)]
     public static int Add(int a, int b)
     {
         return a + b;
