@@ -155,19 +155,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73_Dictionary_Continuee", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "74_List_Collection_Class", "74_List_Collection_Class\74_List_Collection_Class.csproj", "{CC046F2A-B153-4C3C-84F2-D612CF30FF0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75_List_Collection_Class_Continue", "75_List_Collection_Class_Continue\75_List_Collection_Class_Continue.csproj", "{A2E7BC3A-2535-428B-A6C9-334BBFA98A4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75_List_Collection_Class_Continue", "75_List_Collection_Class_Continue\75_List_Collection_Class_Continue.csproj", "{A2E7BC3A-2535-428B-A6C9-334BBFA98A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "76_Generic_List_Class", "76_Generic_List_Class\76_Generic_List_Class.csproj", "{F2AD4556-CD65-47DE-BCBB-FDB2BD17301C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "76_Generic_List_Class", "76_Generic_List_Class\76_Generic_List_Class.csproj", "{F2AD4556-CD65-47DE-BCBB-FDB2BD17301C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "77_Sort_List_Simple_Types", "77_Sort_List_Simple_Types\77_Sort_List_Simple_Types.csproj", "{2013FD8C-44CD-48B2-8E05-7AC870B8BD42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "77_Sort_List_Simple_Types", "77_Sort_List_Simple_Types\77_Sort_List_Simple_Types.csproj", "{2013FD8C-44CD-48B2-8E05-7AC870B8BD42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78_Sort_List_Complex_Types", "78_Sort_List_Complex_Types\78_Sort_List_Complex_Types.csproj", "{F0FEFF2D-0F56-4175-8FED-DE747A33FFBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "78_Sort_List_Complex_Types", "78_Sort_List_Complex_Types\78_Sort_List_Complex_Types.csproj", "{F0FEFF2D-0F56-4175-8FED-DE747A33FFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "79_Sort _List_Of_Complex_Types_Using_Comparison_Delegate", "79_Sort _List_Of_Complex_Types_Using_Comparison_Delegate\79_Sort _List_Of_Complex_Types_Using_Comparison_Delegate.csproj", "{FF948D41-931A-4B57-9B9B-BB3D4309737A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "79_Sort _List_Of_Complex_Types_Using_Comparison_Delegate", "79_Sort _List_Of_Complex_Types_Using_Comparison_Delegate\79_Sort _List_Of_Complex_Types_Using_Comparison_Delegate.csproj", "{FF948D41-931A-4B57-9B9B-BB3D4309737A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80_Some_Useful_Methods_Of_List_Collection", "80_Some_Useful_Methods_Of_List_Collection\80_Some_Useful_Methods_Of_List_Collection.csproj", "{6263AFE9-B097-4165-9287-18ECE4C0F38B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "80_Some_Useful_Methods_Of_List_Collection", "80_Some_Useful_Methods_Of_List_Collection\80_Some_Useful_Methods_Of_List_Collection.csproj", "{6263AFE9-B097-4165-9287-18ECE4C0F38B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "81_When_To_Use_A_Dictionary_Over_List", "81_When_To_Use_A_Dictionary_Over_List\81_When_To_Use_A_Dictionary_Over_List.csproj", "{407A8999-4D21-4125-AED5-040FECE5DAC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "81_When_To_Use_A_Dictionary_Over_List", "81_When_To_Use_A_Dictionary_Over_List\81_When_To_Use_A_Dictionary_Over_List.csproj", "{407A8999-4D21-4125-AED5-040FECE5DAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "82_Generic_queue_collection_class", "82_Generic_queue_collection_class\82_Generic_queue_collection_class.csproj", "{503F681C-5DAD-4051-8A79-794D4BA9F100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83_Generic_Stack_Collection_Class", "83_Generic_Stack_Collection_Class\83_Generic_Stack_Collection_Class.csproj", "{70C4BD83-54B0-473C-AAC2-623EA97D668A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84_Real_time_example_of_queue_collection_class", "84_Real_time_example_of_queue_collection_class\84_Real_time_example_of_queue_collection_class.csproj", "{DECA3E44-BFED-411A-A702-7A137113B237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "85_Real_time_example_of_stack_collection_class", "85_Real_time_example_of_stack_collection_class\85_Real_time_example_of_stack_collection_class.csproj", "{B87CFA69-88CD-4B65-B1EE-E60483C6D327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "86_Multithreading_in_csharp", "86_Multithreading_in_csharp\86_Multithreading_in_csharp.csproj", "{4EA4194B-50E1-4CD9-BB0C-077BED8C3ACC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +517,26 @@ Global
 		{407A8999-4D21-4125-AED5-040FECE5DAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{407A8999-4D21-4125-AED5-040FECE5DAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{407A8999-4D21-4125-AED5-040FECE5DAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503F681C-5DAD-4051-8A79-794D4BA9F100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503F681C-5DAD-4051-8A79-794D4BA9F100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503F681C-5DAD-4051-8A79-794D4BA9F100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503F681C-5DAD-4051-8A79-794D4BA9F100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C4BD83-54B0-473C-AAC2-623EA97D668A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C4BD83-54B0-473C-AAC2-623EA97D668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C4BD83-54B0-473C-AAC2-623EA97D668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C4BD83-54B0-473C-AAC2-623EA97D668A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECA3E44-BFED-411A-A702-7A137113B237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECA3E44-BFED-411A-A702-7A137113B237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECA3E44-BFED-411A-A702-7A137113B237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECA3E44-BFED-411A-A702-7A137113B237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87CFA69-88CD-4B65-B1EE-E60483C6D327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87CFA69-88CD-4B65-B1EE-E60483C6D327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87CFA69-88CD-4B65-B1EE-E60483C6D327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87CFA69-88CD-4B65-B1EE-E60483C6D327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA4194B-50E1-4CD9-BB0C-077BED8C3ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA4194B-50E1-4CD9-BB0C-077BED8C3ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA4194B-50E1-4CD9-BB0C-077BED8C3ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA4194B-50E1-4CD9-BB0C-077BED8C3ACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
